@@ -1,0 +1,26 @@
+#vs {
+    height: 140px;
+}
+
+#mn {
+    height: 100px;
+}
+
+.AT {
+    height: 250px;
+    border-radius: 20px;
+    float: left;
+}
+
+p {
+    font-size: 25px;
+    margin-left: 25px;
+}
+
+.copy_right_footer {
+    background: orangered;
+    margin-top: 1000px;
+    height: 350px;
+    font-size: 25px;
+    color: white;
+}
